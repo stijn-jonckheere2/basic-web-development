@@ -1,0 +1,21 @@
+html {
+    margin: 0;
+}
+body {
+    font-family: Calibri, Helvetica, sans-serif;
+    padding: 60px;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1, h2 {
+    margin: 0;
+    margin-bottom: 20px;
+    text-align: center;
+}
+h1 {
+    font-size: 24px;
+}
+h2 {
+    font-size: 20px;
+}
